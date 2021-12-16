@@ -2,4 +2,6 @@
 
 ## библиотеки и методы
 
-numpy, pyplot, sklearn, pandas, catboost, lightgbm
+* numpy, pyplot, sklearn, pandas, catboost, lightgbm
+* модели градиентного бустинга, логистическая регрессия, модель случайного леса (лучшая)
+* значимость признаков, работа с датафреймами.
